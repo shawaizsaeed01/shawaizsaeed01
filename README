@@ -1,15 +1,12 @@
 <div align="center">
 
-# 👋 Shawaiz Saeed
+# SHAWAIZ SAEED
 
-### ☁️ Cloud Architect · 🚀 DevOps · 🔐 DevSecOps
+### ☁️ Cloud Architect · 🚀 DevOps Engineer · 🔐 DevSecOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=AWS+%7C+Azure+%7C+Terraform+%7C+Kubernetes;Cloud+Architecture+%7C+DevOps+%7C+DevSecOps;CI%2FCD+%7C+Docker+%7C+Infrastructure+as+Code;Secure+%7C+Scalable+%7C+Automated+Infrastructure" />
+**AWS · Azure · Kubernetes · Terraform · Docker · CI/CD · SRE**
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/shawaizsaeed01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shawaizsaeed)
+**Building secure, scalable & production-ready cloud infrastructure**
 
 </div>
 
@@ -17,34 +14,53 @@
 
 ### 👨‍💻 About
 
-**Cloud Architect & DevOps Engineer with 4+ years of experience** building secure, scalable, and automated cloud infrastructure for **SaaS & healthcare platforms**.
+Cloud & DevOps Engineer with **4+ years of experience** designing, automating, securing, and operating production infrastructure across **AWS and Azure**.
 
-> ☁️ Cloud Architecture · 🏗️ IaC · 🐳 Containers · 🔄 CI/CD · 🔐 DevSecOps · 📊 Observability
+Focused on **Cloud Architecture, Kubernetes, Infrastructure as Code, CI/CD, DevSecOps, Observability, SRE, and Cloud Migration**.
 
-### 🛠️ Tech Stack
+---
 
-<div align="center">
+### ⚙️ Core Expertise
 
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,githubactions,jenkins,prometheus,grafana,git,bash" />
+```text
+☁️ Cloud          AWS · Azure · GCP
+🏗️ Infrastructure Terraform · CloudFormation · Ansible
+🐳 Containers     Docker · Kubernetes · ECS · EKS · Helm
+🔄 CI/CD          GitHub Actions · Jenkins · ArgoCD · GitLab CI
+🔐 DevSecOps      IAM · OWASP · Trivy · SonarQube · Secrets
+📊 Observability  Prometheus · Grafana · Loki · CloudWatch
+🛡️ Reliability    HA · DR · Blue/Green · Canary · SRE
+🐧 Systems        Linux · Nginx · Networking · Automation
+```
 
-</div>
+---
 
-### 🚀 Core Focus
+### 🚀 What I Build
 
-**AWS / Azure** · **Terraform** · **Docker / ECS / Kubernetes** · **CI/CD** · **DevSecOps** · **Monitoring & Observability** · **Cloud Migration** · **High Availability**
+**Cloud Migration** → AWS / Azure modernization & scalable architecture
+**Platform Engineering** → Kubernetes, ECS/EKS & automated infrastructure
+**DevSecOps** → Secure CI/CD, vulnerability management & compliance
+**Infrastructure as Code** → Terraform-driven, repeatable environments
+**Observability** → Metrics, logs, alerting & production reliability
+**High Availability** → Resilient, secure & zero-downtime deployments
+
+---
+
+### 📌 Production Highlights
+
+* 🏥 **50+ microservices** across multi-tenant, multi-region healthcare infrastructure
+* ☁️ Led **DigitalOcean → AWS** cloud migration and modernization
+* 📈 Supported **99.9%+ production availability**
+* 🔐 Built environments aligned with **HIPAA, SOC 2, OWASP & Zero Trust**
+* 🚀 Implemented **Blue-Green & Canary deployments**
+* ⚙️ Automated infrastructure and deployments using **Terraform & GitOps**
 
 ---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shawaizsaeed01&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaizsaeed01&layout=compact&hide_border=true&theme=transparent" />
-
-<br><br>
-
 ### ⚡ Build · Automate · Secure · Scale
 
-⭐ Explore my repositories and connect with me.
+**Cloud Architecture | DevOps | DevSecOps | Platform Engineering**
 
 </div>

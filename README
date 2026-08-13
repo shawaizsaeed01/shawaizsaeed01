@@ -1,122 +1,50 @@
 <div align="center">
 
-# 👋 Hi, I'm **Shawaiz Saeed**
+# 👋 Shawaiz Saeed
 
-### ☁️ Cloud Architect · 🚀 DevOps Engineer · 🔐 DevSecOps
+### ☁️ Cloud Architect · 🚀 DevOps · 🔐 DevSecOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+%7C+Azure+%7C+Terraform+%7C+Kubernetes;Cloud+Architecture+%7C+DevOps+%7C+DevSecOps;CI%2FCD+%7C+Docker+%7C+Infrastructure+as+Code;Building+Secure+%26+Scalable+Cloud+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=AWS+%7C+Azure+%7C+Terraform+%7C+Kubernetes;Cloud+Architecture+%7C+DevOps+%7C+DevSecOps;CI%2FCD+%7C+Docker+%7C+Infrastructure+as+Code;Secure+%7C+Scalable+%7C+Automated+Infrastructure" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shawaizsaeed01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shawaizsaeed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/shawaizsaeed01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shawaizsaeed)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About
 
-**Cloud Architect & DevOps Engineer with 4+ years of hands-on experience** designing, automating, securing, and operating production cloud infrastructure.
+**Cloud Architect & DevOps Engineer with 4+ years of experience** building secure, scalable, and automated cloud infrastructure for **SaaS & healthcare platforms**.
 
-I help build **reliable, scalable, secure, and automated platforms** across AWS & Azure, with a strong focus on SaaS, healthcare, containers, CI/CD, IaC, and DevSecOps.
+> ☁️ Cloud Architecture · 🏗️ IaC · 🐳 Containers · 🔄 CI/CD · 🔐 DevSecOps · 📊 Observability
 
-```text
-☁️ Cloud Architecture    → AWS / Azure / HA / Migration
-🏗️ Infrastructure        → Terraform / IaC / Automation
-🐳 Containers             → Docker / ECS / Kubernetes
-🔄 CI/CD                 → GitHub Actions / Jenkins / AWS
-🔐 DevSecOps             → Trivy / SonarQube / IAM / Secrets
-📊 Observability         → Prometheus / Grafana / Alerting
-```
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-
-### ⚙️ DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,linux,nginx" />
-
-### 🔄 CI/CD & Automation
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,bash,git" />
-
-### 📊 Monitoring & Security
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,githubactions,jenkins,prometheus,grafana,git,bash" />
 
 </div>
 
----
+### 🚀 Core Focus
 
-## 🏗️ What I Build
-
-| Area             | Focus                                          |
-| ---------------- | ---------------------------------------------- |
-| ☁️ Cloud         | AWS, Azure, Cloud Architecture & Migration     |
-| 🏗️ IaC          | Terraform, Automated Infrastructure            |
-| 🐳 Containers    | Docker, ECS, Kubernetes                        |
-| 🔄 CI/CD         | GitHub Actions, Jenkins, AWS CodePipeline      |
-| 🔐 DevSecOps     | Trivy, SonarQube, IAM, Secrets                 |
-| 📊 Observability | Prometheus, Grafana, Monitoring & Alerting     |
-| 🚀 Reliability   | High Availability, Scaling & Disaster Recovery |
-
----
-
-## 📌 Featured Projects
-
-🔹 **Cloud Migration & Modernization**
-AWS/Azure migration with secure, scalable architecture.
-
-🔹 **Production CI/CD Pipeline**
-Automated build → test → security scan → deploy → rollback.
-
-🔹 **Terraform Cloud Infrastructure**
-Reusable and version-controlled AWS/Azure infrastructure.
-
-🔹 **Server Health Monitoring**
-Prometheus + Grafana + Alertmanager monitoring platform.
-
-🔹 **DevSecOps Pipeline**
-CI/CD security using SonarQube, Trivy and automated security gates.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shawaizsaeed01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaizsaeed01&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/shawaizsaeed01/shawaizsaeed01/output/github-contribution-grid-snake.svg)
-
-</div>
+**AWS / Azure** · **Terraform** · **Docker / ECS / Kubernetes** · **CI/CD** · **DevSecOps** · **Monitoring & Observability** · **Cloud Migration** · **High Availability**
 
 ---
 
 <div align="center">
 
-### ⚡ Build. Automate. Secure. Scale.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shawaizsaeed01&show_icons=true&hide_border=true&theme=transparent" />
 
-**Cloud Infrastructure • DevOps • DevSecOps • Automation**
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaizsaeed01&layout=compact&hide_border=true&theme=transparent" />
 
-⭐ Feel free to explore my repositories and connect with me.
+<br><br>
+
+### ⚡ Build · Automate · Secure · Scale
+
+⭐ Explore my repositories and connect with me.
 
 </div>
